@@ -1,0 +1,148 @@
+<div class="quote">Talent hits a target no one else can hit; Genius hits a target no one else can see.  <p class="attribution">...Arthur Schopenhauer</p></div>
+<div class="quote">History teaches us that men and nations behave wisely once they have exhausted all other alternatives.  <p class="attribution">...Abba Eban</p></div>
+<div class="quote">Times have not become more violent. They have just become more televised.  <p class="attribution">...Marilyn Manson</p></div>
+<div class="quote">Nobody got anywhere in the world by simply being content. <p class="attribution">...Louis L'Amour</p></div>
+<div class="quote">A satirist is a man who discovers unpleasant things about himself and then says them about other people. <p class="attribution">...Peter McArthur</p></div>
+<div class="quote">By the time a man realizes that maybe his father was right, he usually has a son who thinks he's wrong. <p class="attribution">...Charles Wadsworth</p></div>
+<div class="quote">Don't worry about people stealing an idea. If it's original, you will have to ram it down their throats. <p class="attribution">...Howard Aiken</p></div>
+<div class="quote">All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. <p class="attribution">...Arthur Schopenhauer</p></div>
+<div class="quote">There are people who think that everything one does with a serious face is sensible. <p class="attribution">...Georg Christoph Lichtenberg</p></div>
+<div class="quote">The fact that man knows right from wrong proves his intellectual superiority to other creatures; but the fact that he can do wrong proves his moral inferiority to any creature that cannot. <p class="attribution">...Mark Twain</p></div>
+<div class="quote">In theory, there is no difference between theory and practice; In practice, there is. <p class="attribution">...Chuck Reid</p></div>
+<div class="quote">Diplomacy is the art of saying 'Nice doggie' until you can find a rock. <p class="attribution">...Will Rogers</p></div>
+<div class="quote">The secret to creativity is knowing how to hide your sources. <p class="attribution">...Albert Einstein</p></div>
+<div class="quote">Almost all absurdity of conduct arises from the imitation of those whom we cannot resemble.<p class="attribution">...Samuel Johnson</p></div>
+<div class="quote">The world is full of willing people, some willing to work, the rest willing to let them.<p class="attribution">...Robert Frost</p></div>
+<div class="quote">In archaeology you uncover the unknown. In diplomacy you cover the known.<p class="attribution">...Thomas Pickering</p></div>
+<div class="quote">Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable.<p class="attribution">...Sidney J. Harris</p></div>
+<div class="quote">Rudeness is the weak man's imitation of strength.<p class="attribution">...Eric Hoffer</p></div>
+<div class="quote">Politics is the art of looking for trouble, finding it whether it exists or not, diagnosing it incorrectly, and applying the wrong remedy.<p class="attribution">...Ernest Benn</p></div>
+<div class="quote">Money can't buy happiness, but neither can poverty.<p class="attribution">...Leo Rosten</p></div>
+<div class="quote">The test of courage comes when we are in the minority. The test of tolerance comes when we are in the majority.<p class="attribution">...Ralph W. Sockman</p></div>
+<div class="quote">Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<p class="attribution">...Isaac Asimov</p></div>
+<div class="quote">Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.<p class="attribution">...Dr. Seuss</p></div>
+<div class="quote">The supreme irony of life is that hardly anyone gets out of it alive.<p class="attribution">...Robert Heinlein</p></div>
+<div class="quote">Never explain--your friends do not need it and your enemies will not believe you anyway.<p class="attribution">...Elbert Hubbard</p></div>
+<div class="quote">People everywhere confuse what they read in newspapers with news.<p class="attribution">...A. J. Liebling</p></div>
+<div class="quote">They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.<p class="attribution">...Benjamin Franklin</p></div>
+<div class="quote">What we think, or what we know, or what we believe is, in the end, of little consequence. The only consequence is what we do.<p class="attribution">...John Ruskin</p></div>
+<div class="quote">First love is a kind of vaccination which saves a man from catching the complaint a second time.<p class="attribution">...Honore de Balzac</p></div>
+<div class="quote">Always and never are two words you should always remember never to use.<p class="attribution">...Wendell Johnson</p></div>
+<div class="quote">Under capitalism, man exploits man. Under communism, it's just the opposite.<p class="attribution">...John Kenneth Galbraith</p></div>
+<div class="quote">All truths are easy to understand once they are discovered; the point is to discover them.<p class="attribution">...Galileo Galilei</p></div>
+<div class="quote">A timid person is frightened before a danger, a coward during the time, and a courageous person afterward.<p class="attribution">...Jean Paul Richter</p></div>
+<div class="quote">When two men in business always agree, one of them is unnecessary.<p class="attribution">...William Wrigley Jr.</p></div>
+<div class="quote">Success usually comes to those who are too busy to be looking for it.<p class="attribution">...Henry David Thoreau</p></div>
+<div class="quote">If you believe everything you read, better not read.<p class="attribution">...Japanese Proverb</p></div>
+<div class="quote">One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.<p class="attribution">...Elbert Hubbard</p></div>
+<div class="quote">Every increased possession loads us with new weariness.<p class="attribution">...John Ruskin</p></div>
+<div class="quote">You can only be young once. But you can always be immature.<p class="attribution">...Dave Barry</p></div>
+<div class="quote">Integrity without knowledge is weak and useless, and knowledge without integrity is dangerous and dreadful.<p class="attribution">...Samuel Johnson</p></div>
+<div class="quote">It has been my experience that folks who have no vices have very few virtues.<p class="attribution">...Abraham Lincoln</p></div>
+<div class="quote">No one has ever had an idea in a dress suit.<p class="attribution">...Sir Frederick G. Banting</p></div>
+<div class="quote">Trying to determine what is going on in the world by reading newspapers is like trying to tell the time by watching the second hand of a clock.<p class="attribution">...Ben Hecht</p></div>
+<div class="quote">There are two ways to slide easily through life; to believe everything or to doubt everything. Both ways save us from thinking.<p class="attribution">...Alfred Korzybski</p></div>
+<div class="quote">I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet.<p class="attribution">...Rodney Dangerfield</p></div>
+<div class="quote">Once the game is over, the King and the pawn go back in the same box.<p class="attribution">...Italian Proverb</p></div>
+<div class="quote">It is dangerous to be right when the government is wrong.<p class="attribution">...Voltaire</p></div>
+<div class="quote">There are two types of people--those who come into a room and say, 'Well, here I am!' and those who come in and say, 'Ah, there you are.'<p class="attribution">...Frederick L Collins</p></div>
+<div class="quote">It is better to deserve honors and not have them than to have them and not to deserve them.<p class="attribution">...Mark Twain</p></div>
+<div class="quote">The deepest definition of youth is life as yet untouched by tragedy.<p class="attribution">...Alfred North Whitehead</p></div>
+<div class="quote">With most men, unbelief in one thing springs from blind belief in another.<p class="attribution">...Georg Christoph Lichtenberg</p></div>
+<div class="quote">Freedom of the press is limited to those who own one.<p class="attribution">...A. J. Liebling</p></div>
+<div class="quote">He who praises you for what you lack wishes to take from you what you have.<p class="attribution">...Don Juan Manuel</p></div>
+<div class="quote">There is always more misery among the lower classes than there is humanity in the higher.<p class="attribution">...Victor Hugo</p></div>
+<div class="quote">It takes hundreds of nuts to hold a car together, but it takes only one of them to scatter it all over the highway.<p class="attribution">...Evan Esar</p></div>
+<div class="quote">The reason why worry kills more people than work is that more people worry than work.<p class="attribution">...Robert Frost</p></div>
+<div class="quote">There are two kinds of light--the glow that illuminates, and the glare that obscures.<p class="attribution">...James Thurber</p></div>
+<div class="quote">You can fool some of the people all of the time, and all of the people some of the time, but you can not fool all of the people all of the time.<p class="attribution">...Abraham Lincoln</p></div>
+<div class="quote">If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.<p class="attribution">...Rene Descartes</p></div>
+<div class="quote">You cannot depend on your eyes when your imagination is out of focus.<p class="attribution">...Mark Twain</p></div>
+<div class="quote">Health is merely the slowest possible rate at which one can die.<p class="attribution">...Anonymous</p></div>
+<div class="quote">The right to be heard does not automatically include the right to be taken seriously.<p class="attribution">...Hubert H. Humphrey</p></div>
+<div class="quote">Education is the ability to listen to almost anything without losing your temper or your self-confidence.<p class="attribution">... Robert Frost</p></div>
+<div class="quote">Any fool can know. The point is to understand.<p class="attribution">... Einstein</p></div>
+<div class="quote">Many a man who falls in love with a dimple make the mistake of marrying the whole girl<p class="attribution">....Evan Esar</p></div>
+<div class="quote">The key to being a good manager is keeping the people who hate me away from those who are still undecided.<p class="attribution">...Casey Stengel</p></div>
+<div class="quote">Suburbia is where the developer bulldozes out the trees, then names the streets after them.<p class="attribution">...Bill Vaughan</p></div>
+<div class="quote">Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good.<p class="attribution">...Samuel Johnson</p></div>
+<div class="quote">Idealism is what precedes experience; cynicism is what follows.<p class="attribution">...David T. Wolf</p></div>
+<div class="quote">Everything is funny as long as it is happening to Somebody Else.<p class="attribution">...Will Rogers</p></div>
+<div class="quote">I do not know with what weapons World War III will be fought, but World War IV will be fought with sticks and stones. <p class="attribution">...Einstein</p></div>
+<div class="quote">The world is full of people whose notion of a satisfactory future is, in fact, a return to the idealised past.<p class="attribution">...Robertson Davies</p></div>
+<div class="quote">If you live long enough, the venerability factor creeps in; first, you get accused of things you never did, and later, credited for virtues you never had.<p class="attribution">...I. F. Stone</p></div>
+<div class="quote">Nothing is impossible for the man who doesn't have to do it himself.<p class="attribution">...A. H. Weiler</p></div>
+<div class="quote">Anger is the feeling that makes your mouth work faster than your mind.<p class="attribution">...Evan Esar</p></div>
+<div class="quote">The easiest way for your children to learn about money is for you not to have any.<p class="attribution">... Katharine Whitehorn</p></div>
+<div class="quote">Talk sense to a fool and he calls you foolish.<p class="attribution">...Euripides</p></div>
+<div class="quote">The happiest people don't have the best of everything, they just make the best of everything they have.<p class="attribution">...Unknown</p></div>
+<div class="quote">Make peace with your past so it won't disturb your present.<p class="attribution">...Unknown</p></div>
+<div class="quote">What other people think of you is none of your business.<p class="attribution">...Unknown</p></div>
+<div class="quote">Time heals almost everything, give it time.<p class="attribution">...Unknown</p></div>
+<div class="quote">No one is in charge of your happiness, except you.<p class="attribution">...Unknown</p></div>
+<div class="quote">Don't compare your life to others and don't judge them, you have no idea what their journey is all about.<p class="attribution">...Unknown</p></div>
+<div class="quote">Nine-tenths of wisdom is being wise in time.<p class="attribution">...Theodore Roosevelt</p></div>
+<div class="quote">If you give me six lines written by the hand of the most honest of men, I will find something in them which will hang him.<p class="attribution">...Cardinal Richelieu</p></div>
+<div class="quote">The art of writing is the art of discovering what you believe.<p class="attribution">...Gustave Flaubert</p></div>
+<div class="quote">A wise man gets more use from his enemies than a fool from his friends.<p class="attribution">...Baltasar Gracian</p></div>
+<div class="quote">The more one pleases everybody, the less one pleases profoundly.<p class="attribution">...Stendhal</p></div>
+<div class="quote">It is well to remember that the entire universe, with one trifling exception, is composed of others.<p class="attribution">...John Andrew Holmes</p></div>
+<div class="quote">Where all think alike, no one thinks very much.<p class="attribution">...Walter Lippmann</p></div>
+<div class="quote">Tact is the ability to describe others as they see themselves.<p class="attribution">...Abraham Lincoln</p></div>
+<div class="quote">Never associate with those who share your defects - they will reinforce everything that holds you back.<p class="attribution">...48 Laws of Power</p></div>
+<div class="quote">Whenever you find yourself on the side of majority, it is time to pause and reflect.<p class="attribution">...Mark Twain</p></div>
+<div class="quote">A penny saved is a penny earned.<p class="attribution">...Ben Franklin</p></div>
+<div class="quote">In almost every act of our lives... We are dominated by the relatively small number of persons who understand the mental processes and social patterns of the masses. It is they pull the wires that control the public mind.<p class="attribution">...Edward Bernays</p></div>
+<div class="quote">The bad actor is the one who is always sincere. People who wear their hearts on their sleeves out in society are tiresome and embarrassing. Their sincerity notwithstanding, it is hard to take them seriously. Those who cry in public may temporarily elicit sympathy, but sympathy soon turns to scorn and irritation at their self-obsessiveness - they are crying to get attention, we feel, and a malicious part of us wants to deny them the satisfaction.<p class="attribution">...48 Laws of Power</p></div>
+<div class="quote">It is less what you do that matters, than how you do it.<p class="attribution">...48 Laws of Power</p></div>
+<div class="quote">Folly consists not in committing Folly, but being incapable of concealing it. All men make mistakes, but the wise conceal the blunders they have made, while fools make them public. Reputation depends more on what is hidden than on what is seen.<p class="attribution">...Baltasar Gracian</p></div>
+<div class="quote">People of power are undone not by the mistakes they make, but by the way they deal with them.<p class="attribution">...48 Laws of Power</p></div>
+<div class="quote">In the matter of style, go with the flow. In the matter of principle, stand like a rock!<p class="attribution">...Thomas Jefferson</p></div>
+<div class="quote">One should not be too straightforward. Go and see the forest. The straight trees are cut down, the crooked ones are left standing.<p class="attribution">...Kautilya</p></div>
+<div class="quote">The moment you have an instinct to act on a goal you must 5-4-3-2-1 and physically move or your brain will stop you.<p class="attribution">...5 Second Rule</p></div>
+<div class="quote">Ask for the moon and you will be surprised how often you get it.<p class="attribution">...48 Laws of Power</p></div>
+<div class="quote">What draws attention draws power.<p class="attribution">...48 Laws of Power</p></div>
+<div class="quote">Always hate what is wrong, but don't hate the one who errors. Hate sin with all your heart, but forgive and have mercy on the sinner. Criticize speech, but respect the speaker. Our job is to wipe out disease, not the patient.<p class="attribution">...Imam Shafi</p></div>
+<div class="quote">There will always be people around to make you feel like a failure for not being able to afford something that costs too much money.<p class="attribution">...Unknown</p></div>
+<div class="quote">Everything around you that you call life was made up by people that were no smarter than you, and you can change it, you can influence it, you can bring your own things that other people can use. Once you learn that, you will never be the same again.<p class="attribution">...Steve Jobs</p></div>
+<div class="quote">Nine times out of ten the easy path isn't the right path.<p class="attribution">...Unknown</p></div> 
+<div class="quote">Beware of little expenses; a small leak will sink a great ship. ...Benjamin Franklin</p></div> 
+<div class="quote">One half of knowing what you want is knowing what you must give up before you get it.<p class="attribution">...Sidney Howard</p></div> 
+<div class="quote">Nine times out of ten the easy path isn’t the right path.</div>
+<div class="quote">Beware of little expenses ; a small leak will sink a great ship.<p class="attribution">...Benjamin Franklin</p></div> 
+<div class="quote">One half of knowing what you want is knowing what you must give up before you get it.<p class="attribution">...Sidney Howard</p></div> 
+<div class="quote">It is better to risk starving to death than surrender. If you give up on your dreams, what’s left?<p class="attribution">...Jim Carrey</p></div> 
+<div class="quote">There are no secrets to success . It is the result of preparation, hard work, and learning from failure.<p class="attribution">...COLIN POWELL</p></div> 
+<div class="quote">In a fight between a bear and an alligator, it is the terrain which determines who wins.<p class="attribution">...JIM BARKSDALE</p></div> 
+<div class="quote">An army may be likened to water, for just as flowing water avoids the heights and hastens to the lowlands, so an army avoids strength and strikes weakness.<p class="attribution">...SUN TZU</p></div> 
+<div class="quote">Do not let what you cannot do interfere with what you can do.<p class="attribution">...JOHN WOODEN</p></div> 
+<div class="quote">If it scares you, it might be a good thing to try.<p class="attribution">...SETH GODIN</p></div> 
+<div class="quote">Facts do not cease to exist because they are ignored.<p class="attribution">...ALDOUS HUXLEY</p></div> 
+<div class="quote">There are no rules here . We’re trying to accomplish something.<p class="attribution">...THOMAS EDISON</p></div> 
+<div class="quote">What is defeat ? Nothing but education . Nothing but the first step to something better.<p class="attribution">...WENDELL</p></div> 
+<div class="quote">If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from his angle as well as your own.<p class="attribution">...HENRY FORD</p></div> 
+<div class="quote">The borrower is servant to the lender.<p class="attribution">...PROVERB</p></div> 
+<div class="quote">If you would know the value of money, go and try to borrow some.<p class="attribution">...BENJAMIN FRANKLIN</p></div> 
+<div class="quote">Even if you’re on the right track, you’ll get run over if you just sit there.<p class="attribution">...WILL ROGERS</p></div> 
+<div class="quote">It is our choices that show what we truly are, far more than our abilities.<p class="attribution">...J . K ROWLING</p></div> 
+<div class="quote">Our favorite holding period is forever.<p class="attribution">...WARREN BUFFETT</p></div> 
+<div class="quote">Don’t wait to buy real estate, buy real estate and wait.<p class="attribution">...WILL ROGERS</p></div> 
+<div class="quote">If you have a dream, you can spend a lifetime studying, planning, and getting ready for it . What you should be doing is getting started.<p class="attribution">...DREW HOUSTON</p></div> 
+<div class="quote">The secret of getting ahead is getting started. The secret of getting started is breaking complex overwhelming tasks into small manageable tasks, and then starting on the first one.<p class="attribution">...MARK TWAIN</p></div> 
+<div class="quote">Focus more on being decisive and less on trying to make the 'right' decision. You will never know until you try, and if you're wrong, you can always try again.<p class="attribution">... Ramit Sethi</p></div>
+<div class="quote">Good decisions come from experience. But experience comes from bad decisions. This is life so, never regret. Learn from mistakes and go ahead.<p class="attribution">... Unknown</p></div>
+<div class="quote">Success is not where you are, success is how far you have come where you started from.<p class="attribution">...Unknown</p></div>
+<div class="quote">Argue for your limitations and, sure enough, they’re yours.<p class="attribution">...Richard Bach</p></div>
+<div class="quote">The best advice I ever came across on the subject of concentration is : Wherever you are, be there.<p class="attribution">...Jim Rohn</p></div>
+<div class="quote">The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it – as long as you believe 100 percent.<p class="attribution">...Arnold Schwarzenegger</p></div>
+<div class="quote">Beliefs are not tattoos, they are just like clothes – you can put them on and take them off at will.<p class="attribution">...Spenser Lord</p></div>
+<div class="quote">Concentrate all your thoughts on the task at hand. The sun’s rays do not burn until brought to a focus.<p class="attribution">...Alexander Graham Bell</p></div>
+<div class="quote">Making the simple complicated is commonplace ; making the complicated simple, awesomely simple, that’s creativity.<p class="attribution">...Charles Mingus</p></div>
+<div class="quote">Most of us have been taught to think that we are either intelligent or we are not. But the definitions of intelligence we learned at school were built around the specific types of intelligence that are most valued at school – verbal intelligence and numerical intelligence.<p class="attribution">...Paul McKenna</p></div>
+<div class="quote">The existence of forgetting has never been proved: We only know that some things don’t come to mind when we want them.<p class="attribution">...Friedrich Nietzsche</p></div>
+<div class="quote">Remember that a person’s name is to that person the sweetest and most important sound in any language.<p class="attribution">...Dale Carnegie</p></div>
+<div class="quote">You will continue to suffer if you act emotionally to everything said to you. Observe restraint, think logically and don’t let the words control you.<p class="attribution">...Warren Buffett</p></div>
+<div class="quote">You are the average of the five people you spend the most time with.<p class="attribution">...Jim Rohn</p></div>
+<div class="quote">For many events, roughly 80% of the effects come from 20% of the causes.<p class="attribution">...The Pareto's Principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity)</p></div>
+<div class="quote">Work expands so as to fill the time available for its completion.<p class="attribution">...Parkinson's Law</p></div>
+<div class="quote">All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.<p class="attribution">...Niccolò Machiavelli</p></div>

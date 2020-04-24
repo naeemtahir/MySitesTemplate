@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border:double white;
+}
+
+.quote {
+    height: 600px;
+    width: 900px;
+    background: black;
+	
+    position: flex;
+    margin:50px;
+
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-style: italic;
+    font-size: 400%;
+    text-align: left;
+	
+    text-align: left;
+}
+
+.picture {
+    height: 700px;
+    width: 933px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.attribution {
+    font-size: 28px;
+    text-align: right;
+}
+
