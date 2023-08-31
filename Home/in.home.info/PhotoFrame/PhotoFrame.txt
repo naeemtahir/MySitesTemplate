@@ -1,0 +1,1 @@
+Photos in this folder will be served to Photo Frame.
